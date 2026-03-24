@@ -1,0 +1,6 @@
+,ndcg@10,mrr,p@1,frustration_rate,hit@3_highly_rel
+BM25 (baseline),0.2291,0.6172,0.4555,0.262,0.076
+LightGBM Pointwise,0.4676,0.8338,0.7655,0.1105,0.3655
+LambdaMART,0.4678,0.832,0.763,0.111,0.3745
+CNN Ranker,0.3324,0.7707,0.6585,0.1255,0.142
+LSTM Ranker,0.1739,0.5794,0.3955,0.2765,0.034
